@@ -1,6 +1,6 @@
 # portfolio
 
-![License:MIT](https://github.com/gilorcilla/portfolio/blob/main/LICENSE)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ### User Story
 
