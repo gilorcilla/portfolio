@@ -1,6 +1,6 @@
 # portfolio
 
-![License:MIT](https://github.com/gilorcilla/portfolio/blob/main/LICENSE)
+![License: MIT](https://github.com/gilorcilla/portfolio/blob/main/LICENSE)
 
 ### User Story
 
@@ -8,15 +8,21 @@ My objective is to create a Responsive Portfolio to ensure that web applications
 
 ### Table of Contents
 
--[Description]
+-[Description](https://github.com/gilorcilla/portfolio#user-story)
 
--[Installation]
+-[Procedures](https://github.com/gilorcilla/portfolio#procedures)
 
--[Test]
+-[Test](https://github.com/gilorcilla/portfolio#test)
 
--[Built]
+-[Built With](https://github.com/gilorcilla/portfolio#built-with)
 
 ### Description
+
+![Landing Page](./assets/img/Images/Landing Page.png)
+
+![Experience](./assets/img/Images/Experience.png)
+
+![Education](./assets/img/Images/Education.png)
 
 Minimum Requirements are:
 
@@ -63,3 +69,7 @@ Minimum Requirements are:
 - Activate index.html in google chrome browser to test and ensure that it is loading or working properly.
 
 - Ensure that all navigational bar are working properly when you clicked on it.
+
+### License
+
+-[MIT License](https://github.com/gilorcilla/strong-password-creator/blob/main/LICENSE)
