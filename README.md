@@ -1,6 +1,6 @@
 # portfolio
 
-![License: MIT](https://github.com/gilorcilla/portfolio/blob/main/LICENSE)
+![License:MIT](https://github.com/gilorcilla/portfolio/blob/main/LICENSE)
 
 ### User Story
 
@@ -16,9 +16,11 @@ My objective is to create a Responsive Portfolio to ensure that web applications
 
 -[Built With](https://github.com/gilorcilla/portfolio#built-with)
 
+-[License](https://github.com/gilorcilla/portfolio#license)
+
 ### Description
 
-![Landing Page](./assets/img/Images/Landing Page.png)
+![LandingPage](./assets/img/Images/LandingPage.png)
 
 ![Experience](./assets/img/Images/Experience.png)
 
