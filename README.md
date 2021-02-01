@@ -20,7 +20,7 @@ My objective is to create a Responsive Portfolio to ensure that web applications
 
 ### Description
 
-![Landing Page1](./assets/img/Images/LandingPage1.png)
+![Landing Page](./assets/img/Images/LandingPage.png)
 
 ![Experience](./assets/img/Images/Experience.png)
 
